@@ -1,4 +1,4 @@
-# python-challenge
+# Python-challenge
 
 ## **PyBank**
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data. Each dataset is composed of two columns: Date and Revenue.
