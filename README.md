@@ -9,8 +9,6 @@ Your task is to create a Python script that analyzes the records to calculate ea
 >The average change in revenue between months over the entire period.<br />
 >The greatest increase in revenue (date and amount) over the entire period.<br />
 >The greatest decrease in revenue (date and amount) over the entire period.<br />
-<br />
-<br />
 
 
 ## **PyBoss**
@@ -20,3 +18,4 @@ Your task is to help bridge the gap by creating a Python script able to convert 
 >The DOB data should be re-written into DD/MM/YYYY format.<br />
 >The SSN data should be re-written such that the first five numbers are hidden from view.<br />
 >The State data should be re-written as simple two-letter abbreviations.<br />
+
