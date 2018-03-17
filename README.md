@@ -3,7 +3,6 @@
 ## **PyBank**
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data. Each dataset is composed of two columns: Date and Revenue.
 Your task is to create a Python script that analyzes the records to calculate each of the following:<br />
-<br />
 - The total number of months included in the dataset.<br />
 - The total amount of revenue gained over the entire period.<br />
 - The average change in revenue between months over the entire period.<br />
